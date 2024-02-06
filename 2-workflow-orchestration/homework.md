@@ -86,7 +86,7 @@ How many columns need to be renamed to snake case?
 * 2
 * 4
 
-> Answer: `4`
+> Answer: `4` this the number of columns that are in Camel case which are (VendorID, RatecodeID, PULocationID, DOLocationID) 
 
 ## Question 6. Data Exporting
 
@@ -97,7 +97,8 @@ Once exported, how many partitions (folders) are present in Google Cloud?
 * 67
 * 108
 
-> Answer: `96`
+> Answer: `96` this is the number of folders in the google storage bucket object
+
 
 ## Submitting the solutions
 
